@@ -6,5 +6,10 @@ print one_to_ten
 one_to_ten[0] = 10
 print one_to_ten
 
-one_to_ten[10] = 11
+one_to_ten.append(11)
+print one_to_ten
+
+twelve_to_fourteen = [12, 13, 14]
+
+one_to_ten.extend(twelve_to_fourteen)
 print one_to_ten
