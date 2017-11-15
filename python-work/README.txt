@@ -1,1 +1,1 @@
-Python stuff from NCAS Introduction to Scientific Computing
+Python files from exercises from NCAS Introduction to Scientific Computing
